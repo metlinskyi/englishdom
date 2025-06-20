@@ -1,3 +1,4 @@
 /.venv
 /query.sql
 /read.me
+/.env
